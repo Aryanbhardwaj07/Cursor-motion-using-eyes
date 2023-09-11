@@ -1,0 +1,40 @@
+The purpose of this application is to control cursor movements 
+by just gazing at the screen and moving our face to drag it.
+This application is beneficial for the physically disabled people
+who cannot use their hands to work on a computer so this would help
+them handle mouse events easily.
+At first the user needs to input the camera number, if it is a laptop
+ camera then the default number value is 1, if the user has attached 
+ an external camera, then the user will input number 2 as a value and 
+ if multiple cameras are attached then user needs to input the correct
+camera number to run the application. After filling the correct camera
+number, users have to press the enter button.
+Now, After adding the camera number, the user needs to specify the aspect 
+ratio of the camera which is used as a webcam. Most of the webcam comes with
+4:3 as an aspect ratio so this application comes compatible with 4:3. But If
+the camera-input aspect ratio is 16:9 then the user needs to input selection 
+in this aspect ratio checkbox. 
+After choosing the correct aspect ratio, the user will check whether a camera
+is flipped by default. If a webcam is flipped then check the inverse camera button.
+It will reverse the flipping and tracking will happen in exact order. After choosing
+correct alternatives user needs to balance out the lighting with the help of 
+illumination slider which helps in low light conditions. Illumination slider
+comes with 3 values 1/2/3. Here, the default value is 1, as we increase it, 
+illumination increases in the video frame. 
+If our right eye blinks intentionally then it is considered as a right click and 
+if it blinks naturally then clicks are not considered. Same goes for the left eye. 
+Here we can see Mouse clicks on blink detection. Also, the mouse cursor is moving by
+ subtracting the distance between midpoint of face and midpoint of frame.
+Finally, Users can click the letter ‘Q’ to exit. By clicking ’Q’ the user just exits 
+out of the OpenCV video frame. To exit the full program, users need to close the interface too. 
+There are many pros of using this as in this application, 
+the camera number is saved in a file where it stores the last used
+camera number which is used to run OpenCV frames with previously used frames. 
+Users can use it in-game for many game functions. Camera input can be changed.
+ Users can set illumination in video screens according to their background illumination.
+Now talking about the future scope, the user interface will be made more handy and
+ attractive over time. Like we can add different functions for different eye and face
+  gestures and will help increase the research in this field. Game functions can be made
+   more advanced. In the upcoming updates,
+ any individual in distress can be helped with communication to a far greater extent. 
+It is easy to control and one can change aspect ratio settings as well.

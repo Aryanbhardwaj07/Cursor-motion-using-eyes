@@ -1,0 +1,5 @@
+toptobottom    value of blink  
+72		-8 it goes to -2,-1
+87-86		-7 it goes to -3
+103-104		-6 it goes to -4
+124		-5 it goes to  -4
