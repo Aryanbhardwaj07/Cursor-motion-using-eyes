@@ -1,8 +1,6 @@
 # Cursor-motion-using-eyes
 
-### Demo video:
 
-https://drive.google.com/file/d/1YP1Tb87vA3N9BZ_J3T8EIHrdnYx0CDRv/view?usp=share_link
 
 ### Description 
 
